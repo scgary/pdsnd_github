@@ -5,7 +5,7 @@ import numpy as np
 """
 I googled a number of python, numpy, and pandas concepts throughout this project.
 I did not copy anything, but I did learn how to accomplish/implement tasked by
-  reading through documentation and questions/solutions .
+  reading through documentation and questions/solutions.
 
 main sources: https://www.geeksforgeeks.org/
               https://www.python.org/
