@@ -7,7 +7,8 @@ This repo was clones on 2022-Nov-05.
 Udacity Version Control Project
 
 ### Description
-This is a project for Udacity to finish the NanoDegree
+This is a project for Udacity to finish the NanoDegree.
+This pulls in the bikeshare project which was a pretty neat project.
 
 ### Files used
 bikeshare.py
