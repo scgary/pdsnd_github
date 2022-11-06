@@ -7,10 +7,11 @@ This repo was clones on 2022-Nov-05.
 Udacity Version Control Project
 
 ### Description
-Describe what your project is about and what it does
+This is a project for Udacity to finish the NanoDegree
 
 ### Files used
-Include the files used
+bikeshare.py
+bikeshare_v2.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
